@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Arshad</h1>
-<h3 align="center">🚀 DevOps Engineer | Cloud | Automation | Infrastructure | Monitoring</h3>
+<h3 align="center"> 🚀 DevOps Engineer | Cloud | Automation | Infrastructure | Monitoring</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Cloud+Native+%7C+IaC+%7C+CI%2FCD+%7C+Monitoring+%7C+Security+%7C+Automation" alt="Typing SVG" />
