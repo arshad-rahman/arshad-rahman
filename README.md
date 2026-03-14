@@ -5,7 +5,7 @@
 <h3>Building reliable infrastructure, automating workflows, and shipping practical DevOps solutions.</h3>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&random=true&width=435&lines=Cloud+Infrastructure;CI%2FCD+Pipelines;Docker+and+Deployment+Automation;Monitoring+and+Observability;Security+and+Server+Hardening)](https://git.io/typing-svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&random=true&width=435&lines=Cloud+Infrastructure;CI%2FCD+Pipelines;Docker+and+Deployment+Automation;Monitoring+and+Observability;Security+and+Server+Hardening" />
 </p>
 
 <p>
