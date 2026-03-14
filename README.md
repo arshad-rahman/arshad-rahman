@@ -38,10 +38,10 @@
 ## Featured Projects
 
 <p align="center">
-  <a href="https://github.com/arshad-rahman/ai-release-notes-generator">
+  <a href="https://github.com/arshad-rahman/hackowac-cicd-booking-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arshad-rahman&repo=ai-release-notes-generator&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   </a>
-  <a href="https://github.com/arshad-rahman/docker-cleanup-script">
+  <a href="https://github.com/arshad-rahman/ai-release-notes-generator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arshad-rahman&repo=docker-cleanup-script&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   </a>
 </p>
