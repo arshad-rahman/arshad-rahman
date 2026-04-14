@@ -75,9 +75,9 @@ philosophy:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arshad-rahman&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=39d353&text_color=c9d1d9&ring_color=00ff41&border_radius=10&rank_icon=percentile" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arshad-rahman&theme=github_dark" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshad-rahman&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_radius=10&langs_count=8" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arshad-rahman&theme=github_dark" height="170"/>
 
 </div>
 
@@ -86,7 +86,6 @@ philosophy:
 <img src="https://streak-stats.demolab.com?user=arshad-rahman&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=39d353&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=8b949e&stroke=00ff4130&currStreakNum=ffffff&sideNums=ffffff" width="62%"/>
 
 </div>
-
 <br/>
 
 ---
@@ -138,8 +137,7 @@ philosophy:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arshad-rahman&theme=high-contrast&hide_border=true&bg_color=0d1117&color=00ff41&line=39d353&point=00ff41&area=true&area_color=00ff4115&radius=6" width="96%"/>
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arshad-rahman&bg_color=000000&color=7ffe00&line=00adfe&point=7ffe00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 <br/>
